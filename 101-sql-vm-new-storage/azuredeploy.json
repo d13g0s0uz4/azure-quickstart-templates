@@ -42,13 +42,14 @@
     "imageOffer": {
       "type": "String",
       "allowedValues": [
+        "sql2017-ws2019",
         "SQL2017-WS2016",
         "SQL2016SP1-WS2016",
         "SQL2016SP2-WS2016",
         "SQL2014SP3-WS2012R2",
         "SQL2014SP2-WS2012R2"
       ],
-      "defaultValue": "SQL2017-WS2016",
+      "defaultValue": "sql2017-ws2019",
       "metadata": {
         "description": "Windows Server and SQL Offer"
       }
